@@ -190,7 +190,7 @@ Frontend: http://localhost:80
 
 Backend: http://localhost:5001
 
-<img width="1440" alt="logout" src="https://github.com/user-attachments/assets/fb8e0375-2f22-496a-90a5-a7d89e19d5ba" />
+<img width="1440" alt="logout" src="https://github.com/user-attachments/assets/5f79d3af-8a28-49b7-9893-6dfd39f2b746" />
 
 
 
